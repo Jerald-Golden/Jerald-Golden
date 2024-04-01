@@ -4,40 +4,15 @@ I'm a passionate intern in the field of web development, currently focusing on F
 
 **🔧 Technologies & Tools**
 
-Flask
-
-Three.js
-
-MongoDB
-
-Express
-
-Node.js
-
-OpenLayers
-
-Python
-
-HTML/CSS
-
-JavaScript
-
+Flask || Three.js || MongoDB || Express || Node.js || OpenLayers || Python || HTML/CSS || JavaScript
 
 **🌱 Currently Learning**
 
-Advanced web development techniques
-
-Database optimization
+Advanced web development techniques || Database optimization
 
 **📫 How to Reach Me**
 
-Email: [jeraldgolden00@gmail.com]
-
-LinkedIn: [linkedin.com/in/jerald-golden-b-04761924a]
-
-**😄 Pronouns**
-
-[Your Pronouns]
+Email: [jeraldgolden00@gmail.com] || LinkedIn: [linkedin.com/in/jerald-golden-b-04761924a]
 
 ⚡ Fun Fact
 
