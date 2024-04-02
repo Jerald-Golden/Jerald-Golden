@@ -12,4 +12,4 @@ Advanced web development techniques || Database optimization
 
 **📫 How to Reach Me**
 
-Email: [jeraldgolden00@gmail.com] || LinkedIn: [linkedin.com/in/jerald-golden-b-04761924a]
+Email: [jeraldgolden00@gmail.com] || LinkedIn: [https://www.linkedin.com/in/jerald-golden-b-04761924a/]
