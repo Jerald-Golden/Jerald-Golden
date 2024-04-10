@@ -13,10 +13,6 @@ Advanced web development techniques || Database optimization
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact" alt="jerald-golden" /></p>
 
-**GitHub Stats**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jerald-golden&show_icons=true&locale=en" alt="jerald-golden" /></p>
-
 **How to Reach Me**
 
 Email: [jeraldgolden00@gmail.com] || LinkedIn: [https://www.linkedin.com/in/jerald-golden-b-04761924a/]
