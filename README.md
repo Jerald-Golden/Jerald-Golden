@@ -11,7 +11,7 @@ Advanced web development techniques || Database optimization
 
 **Most Used Languages**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact" alt="jerald-golden" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact" alt="jerald-golden" /></p>
 
 **How to Reach Me**
 
