@@ -1,6 +1,6 @@
 **Hi there, I'm Jerald Golden B! 👋**
 
-I'm a passionate intern in the field of web development, currently focusing on Flask, Three.js, and image classification. I enjoy working with a variety of technologies to create innovative projects.
+I am a passionate student seeking to leverage the current technology to create innovative solutions. Experienced in coding, problem-solving, and project management. Lifelong learner and enthusiastic team player. Ready to contribute to the ever-evolving tech landscape.😃
 
 **Languages and Tools:**
 
