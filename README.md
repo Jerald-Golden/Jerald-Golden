@@ -40,11 +40,6 @@ I'm a passionate intern in the field of web development, currently focusing on F
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
-
-**Currently Learning**
-
-Advanced web development techniques || Database optimization
-
 **Most Used Languages**
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact" alt="jerald-golden" /></p>
