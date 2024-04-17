@@ -1,8 +1,8 @@
-**Hi there, I'm Jerald Golden B! 👋**
+### Hi there, I'm Jerald Golden B! 👋
 
 I am a passionate student seeking to leverage the current technology to create innovative solutions. Experienced in coding, problem-solving, and project management. Lifelong learner and enthusiastic team player. Ready to contribute to the ever-evolving tech landscape.😃
 
-**Languages and Tools:**
+### Languages and Tools:
 
 ### Front-end Development
 <p align="left">
@@ -34,10 +34,10 @@ I am a passionate student seeking to leverage the current technology to create i
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
-**Most Used Languages**
+### Most Used Languages
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact" alt="jerald-golden" /></p>
 
-**How to Reach Me**
+### How to Reach Me
 
 Email: [jeraldgolden00@gmail.com] || LinkedIn: [https://www.linkedin.com/in/jerald-golden-b-04761924a/]
