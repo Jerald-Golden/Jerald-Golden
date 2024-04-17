@@ -36,7 +36,8 @@ I am a passionate student seeking to leverage the current technology to create i
 
 ### Most Used Languages
 
-<p><img align="middle" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact&bg_color=0,73FA79,73FDFF,D783FF" alt="jerald-golden" /></p>
+<p><img align="middle" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerald-golden&show_icons=true&locale=en&layout=compact&bg_color=0,73FA79,73FDFF,D783FF" alt="jerald-golden" /></p>
+
 
 ### How to Reach Me
 
