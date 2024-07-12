@@ -1,6 +1,6 @@
 ### Hi there, I'm Jerald Golden B! 👋
 
-I am a passionate student seeking to leverage the current technology to create innovative solutions. Experienced in coding, problem-solving, and project management. Lifelong learner and enthusiastic team player. Ready to contribute to the ever-evolving tech landscape.😃
+I am a passionate FullStack and ThreeJs Developer seeking to leverage the current technology to create innovative solutions. Experienced in coding, problem-solving, and project management. Lifelong learner and enthusiastic team player. Ready to contribute to the ever-evolving tech landscape.😃
 
 ### Languages and Tools:
 
